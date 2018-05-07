@@ -1,2 +1,2 @@
 sphinxcontrib-ansibleautodoc
-yaml
+pyaml
